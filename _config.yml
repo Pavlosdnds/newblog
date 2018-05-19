@@ -1,0 +1,11 @@
+# basic options
+title: thatbloggerguy
+author: PavlosDnds
+email: pavlosdnds@gmail.com
+description: An everyday blog
+twitter_username: BartBartolomeo
+github_username:  Pavlosdnds
+
+# Build settings
+markdown: kramdown
+theme: minima
