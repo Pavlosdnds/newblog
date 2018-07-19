@@ -24,6 +24,7 @@ title: A Guide for Juan
   - Layouts
   
   
+  
 - CSS:
   CSS is a tool that lets you experiment with the styling of every item that exists in your website.
   
@@ -35,6 +36,7 @@ title: A Guide for Juan
   - Value
   
   
+  
 - JavaScript:
   JS is the tool that gives life to your website, defining the function behind every action.
   
@@ -44,3 +46,5 @@ title: A Guide for Juan
   - Functions: Conditionals, Loops, Operators, etc.
   - Event handling
   - JSON
+  
+  
