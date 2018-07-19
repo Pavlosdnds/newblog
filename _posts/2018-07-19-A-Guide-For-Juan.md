@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Post in New Blog
+title: A Guide for Juan
 ---
 
 <h1>Introduction to Front-End Development</h1>
