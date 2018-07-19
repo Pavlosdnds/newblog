@@ -48,3 +48,8 @@ title: A Guide for Juan
   - JSON
   
   
+I recently read an article on [DEV](https://dev.to) which outlines that there are 3 stages one should follow in order to learn how to code and I can't help but find this advice quite insightful and helpful. The 3 stages are namely : 
+- Learn Syntax
+- Solve Problems
+- Make stuff
+
