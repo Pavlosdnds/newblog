@@ -79,6 +79,6 @@ If you are like me and have a lack of things to challenge yourself with and crea
 <p1> Here you are now, fully capable and with hands-on experience solving problems. This is the start of your own epic journey through this exciting and new world brimming with adventures, things to explore and experiment with. Don't waste any more time. Start your own project you were so eager to play with or browse through the never ending list of open source projects looking for contributors. Nothing can stop you now. Well except maybe your newborn baby! :P
   
   
-
+<h4> PS </h4>
 This article is written through my own personal experience and an amalgamation of blog posts, articles and other advice I came across. If there are any mistakes please let me know to correct them.
   
