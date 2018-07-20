@@ -74,4 +74,10 @@ and a lot more to be found...
 <p1> Here is where you reap the fruits of your efforts! Personally , I find this section the most rewarding. After enduring all those fill in the gap / missing line of code homework and painfully trying to memorize all these predetermined keywords, you can finally put what you' ve learned to good use. It's not going to be easy , you're supposed to refer back to every little thing you forgot how to use but trust me when I say this, this is exactly what you're going to do in your whole developer career. Better get used to it the earliest you can. </p1>
 If you are like me and have a lack of things to challenge yourself with and create then, 
 [Edabit](https://edabit.com/) is an excellent collection of challenges in a variety of languages that will help you find small projects to attempt. There are also solutions and questions/comments from other users who have attempted the same challenges from which you can draw inspiration. All in all a great tool!
+
+<h3> Make Stuff </h3>
+<p1> Here you are now, fully capable and with hands-on experience solving problems. This is the start of your own epic journey through this exciting and new world brimming with adventures, things to explore and experiment with. Don't waste any more time. Start your own project you were so eager to play with or browse through the never ending list of open source projects looking for contributors. Nothing can stop you now. Well except maybe your newborn baby! :P
+  
+  
+<p1>This article is written through my own personal experience and an amalgamation of blog posts, articles and other advice I came across. If there are any mistakes please let me know to correct them.</p1>
   
